@@ -1,4 +1,5 @@
-An awesome recipe for breakfast, hint it's eggs.
+The recipe for every meal
+
 
 * Crack open the eggs
 * mix eggs
