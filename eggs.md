@@ -1,5 +1,5 @@
-The recipe for breakfast
+The recipe for any meal
 
 * Crack open the eggs
-* mix eggs
+* beat eggs
 * cook!
