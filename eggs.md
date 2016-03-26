@@ -1,4 +1,4 @@
-A recipe for beakfast
+A recipe for breakfast
 
 * Crack open the eggs
 * mix eggs
