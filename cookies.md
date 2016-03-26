@@ -1,1 +1,1 @@
-Another recipe here for cokies
+Another recipe here for cookies
