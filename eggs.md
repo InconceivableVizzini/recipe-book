@@ -1,4 +1,4 @@
-A recipe for breakfast
+The recipe for every meal
 
 * Crack open the eggs
 * mix eggs
